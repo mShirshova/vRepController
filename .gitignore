@@ -1,0 +1,5 @@
+vrepEvolutionController/vrepEvolutionController/Debug/*
+vrepEvolutionController/vrepEvolutionController/Release/*
+*.ipch
+*.suo
+*.user
