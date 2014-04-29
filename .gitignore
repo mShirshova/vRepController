@@ -3,3 +3,5 @@ vrepEvolutionController/vrepEvolutionController/Release/*
 *.ipch
 *.suo
 *.user
+*.opensdf
+*.sdf
